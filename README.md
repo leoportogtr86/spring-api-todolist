@@ -157,5 +157,4 @@ enviar relatórios semanais de tarefas por e-mail.
 
 Essa lista deve fornecer uma progressão clara e gradual para aprender a construir uma API completa de cadastro de
 tarefas em Java usando Spring Boot e PostgreSQL. Ao concluir todos os exercícios, você terá uma compreensão abrangente
-de várias funcionalidades essenciais em uma aplicação real.#   s p r i n g - a p i - t o d o l i s t  
- 
+de várias funcionalidades essenciais em uma aplicação real.
