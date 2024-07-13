@@ -37,8 +37,8 @@
 
 ### Controladores REST
 
-18. **Criação do Controlador Tarefa**: Crie um controlador REST para a entidade Tarefa.
-19. **Endpoint de Criação de Tarefa**: Implemente um endpoint POST para criar uma nova tarefa.
+18. **Criação do Controlador Tarefa**: Crie um controlador REST para a entidade Tarefa. - OK
+19. **Endpoint de Criação de Tarefa**: Implemente um endpoint POST para criar uma nova tarefa. - OK
 20. **Endpoint de Busca de Tarefa por ID**: Implemente um endpoint GET para buscar uma tarefa pelo ID.
 21. **Endpoint de Atualização de Tarefa**: Implemente um endpoint PUT para atualizar uma tarefa existente.
 22. **Endpoint de Exclusão de Tarefa**: Implemente um endpoint DELETE para excluir uma tarefa pelo ID.
