@@ -32,8 +32,8 @@
 13. **Método de Adição de Tarefa**: Implemente um método no serviço para adicionar uma nova tarefa. - OK
 14. **Método de Busca de Tarefa por ID**: Implemente um método no serviço para buscar uma tarefa pelo ID. - OK
 15. **Método de Atualização de Tarefa**: Implemente um método no serviço para atualizar uma tarefa existente. - OK
-16. **Método de Exclusão de Tarefa**: Implemente um método no serviço para excluir uma tarefa pelo ID.
-17. **Método para Listar Todas as Tarefas**: Implemente um método no serviço para listar todas as tarefas.
+16. **Método de Exclusão de Tarefa**: Implemente um método no serviço para excluir uma tarefa pelo ID. - OK
+17. **Método para Listar Todas as Tarefas**: Implemente um método no serviço para listar todas as tarefas. - OK
 
 ### Controladores REST
 

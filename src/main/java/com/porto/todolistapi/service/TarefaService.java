@@ -6,6 +6,7 @@ import com.porto.todolistapi.repository.TarefaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -20,6 +21,10 @@ public class TarefaService {
 
     public Tarefa salvarTarefa(Tarefa tarefa) {
         return tarefaRepository.save(tarefa);
+    }
+
+    public List<Tarefa> getAllTarefas() {
+        return tarefaRepository.findAll();
     }
 
     public Tarefa getTarefaById(Long id) {
